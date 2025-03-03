@@ -7,15 +7,6 @@ This pre-commit hook helps ensure code quality by checking for:
 - Drupal coding standards (using `phpcs`)  
 - Merge conflict markers  
 
-# Git Pre-Commit Hook for Drupal Code Validation
-
-This pre-commit hook helps ensure code quality by checking for:
-
-- PHP syntax errors  
-- Debugging functions (`dpm`, `print_r`, `var_dump`, etc.)  
-- Drupal coding standards (using `phpcs`)  
-- Merge conflict markers  
-
 ## Implementing Git Hooks
 
 Before you start, make sure you have these basic requirements installed:
