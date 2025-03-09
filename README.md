@@ -6,6 +6,7 @@ This pre-commit hook helps ensure code quality by checking for:
 - Debugging functions (`dpm`, `print_r`, `var_dump`, etc.)  
 - Drupal coding standards (using `phpcs`)  
 - Merge conflict markers  
+- Compartible with ddev setup.
 
 ## Implementing Git Hooks
 
